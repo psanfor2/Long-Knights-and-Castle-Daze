@@ -6,3 +6,6 @@ User will face decisions like which road to take or whether to run or stay and f
 
 Github has many examples of similar text-based games on Github. I’ll try and find the best examples to refer to for my game.
 This project will use Python and coded by me, Paige Sanford:
+
+
+Future Changes
